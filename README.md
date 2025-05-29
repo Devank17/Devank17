@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I'm passionate about coding, problem-solving, and 
 ## 🔗 Links
 [![instagram](https://img.icons8.com/?size=40&id=85154&format=png&color=000000)](https://www.instagram.com/de_code06/)
 [![linkedin](https://img.icons8.com/?size=40&id=98960&format=png)](https://www.linkedin.com/in/devank-singh-692371286/)
-[![twitter](https://img.icons8.com/?size=40&id=phOKFKYpe00C&format=png&color=000000)](https://x.com/de_code06)
 
 
 ## 🛠 Skills
